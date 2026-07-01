@@ -1,2 +1,2 @@
 # programas-de-python
-Neste repositório, dediquei-me a praticar incessantemente a utilização das diversas funcionalidades do Python. Aqui, trabalhei o básico do uso da linguagem ao máximo possível.
+In this repository, I put all my efforts on learning the basics of python. Throughout it, I learned functions, exceptions, loops, conditionals and much more.
